@@ -1,6 +1,6 @@
 ### Hi there 👋
 # 💫 About Me:
-I am a junior software developer currently learning QA automation.
+I am a junior software developer.
 
 
 ## 🌐 Socials:
